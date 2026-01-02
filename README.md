@@ -20,7 +20,31 @@ Profissional especializado em arquitetura de soluções em nuvem com vasta exper
 - 11x Microsoft Most Valuable Professional (MVP) - 2011 a 2022
 - Especialista em transformação digital e modernização de aplicações
 
-## 🌟 Reconhecimento
+## 🌟 Premiações e Reconhecimento
+
+### 🏆 GitHub Partner Award 2025
+**GSI Services and Channel Partner of the Year** | Accenture & Avanade
+
+<p align="left">
+  <img src="assets/github-partner-award/gsi-services-badge-2025.png" alt="GitHub Partner of the Year 2025 - GSI Services" height="150"/>
+</p>
+
+Em outubro de 2025, a Accenture e Avanade foram reconhecidas pelo GitHub como **Global Systems Integrator (GSI) Services and Channel Partner of the Year**, destacando-se pela excelência em entregar valor excepcional, impacto transformador e fortalecer a missão compartilhada de inovação e colaboração no ecossistema de desenvolvedores.
+
+> "Partners are a force multiplier for GitHub. Partners amplify our capabilities, expand our reach, and accelerate innovation for our joint customers."  
+> — *Elizabeth Pemmerl, Microsoft CVP and GitHub Chief Revenue Officer*
+
+<p align="left">
+  <img src="assets/github-partner-award/andre-trophy.jpg" alt="André Dias com troféu GitHub Partner Award" height="200"/>
+  <img src="assets/github-partner-award/team-award-1.jpg" alt="Equipe Avanade no GitHub Partner Award" height="200"/>
+  <img src="assets/github-partner-award/team-award-2.jpg" alt="Equipe Avanade no GitHub Universe" height="200"/>
+</p>
+
+Este prêmio reconhece a contribuição significativa em capacitar clientes a desbloquear inovação, fortalecer segurança e construir soluções únicas que integram o GitHub às necessidades específicas de cada organização.
+
+**Saiba mais:** [GitHub Partner Awards 2025](https://github.blog/news-insights/company-news/announcing-the-2025-github-partner-award-winners/)
+
+---
 
 ### Microsoft Most Valuable Professional (MVP) Alumni - 11 Anos Consecutivos
 <p align="left">
@@ -208,12 +232,6 @@ Profissional especializado em arquitetura de soluções em nuvem com vasta exper
 ![DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrediasbr&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrediasbr&layout=compact&theme=radical)
 
 ## 📫 Como me encontrar
 
