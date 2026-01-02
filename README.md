@@ -6,19 +6,48 @@
 
 ## 🚀 Sobre Mim
 
-**Technical Architecture Director @ Avanade** | 11x Microsoft MVP | Cloud Solutions Architect
+<table>
+<tr>
+<td width="20%">
+<img src="assets/profile/andre-github-universe-trophy.jpg" alt="André Dias" width="100%"/>
+</td>
+<td width="80%">
 
-Profissional especializado em arquitetura de soluções em nuvem com vasta experiência em Microsoft Azure, AWS, Google Cloud e GitHub. Apaixonado por DevOps, práticas ágeis e transformação digital.
+**Technical Architecture Director @ Avanade** | 11x Microsoft MVP | 60+ Certificações | Cloud Solutions Architect
+
+Líder técnico com 25+ anos de experiência em transformação digital, desde startups até multinacionais como Microsoft (Brasil e Europa), Accenture, e Avanade. Especializado em arquiteturas multicloud (Azure, AWS, GCP) e práticas DevOps em escala enterprise.
+
+Reconhecido com o **GitHub Partner Award 2025** (GSI Services Partner of the Year) e premiado por 11 anos consecutivos (2011-2022) como **Microsoft MVP em DevOps**. Professional Scrum Trainer certificado pela Scrum.org e ex-membro do Microsoft ALM Rangers.
+
+Ao longo da carreira, atuei em projetos estratégicos para organizações como Bradesco (migração de 30.000+ repositórios GitHub Enterprise), AB-InBev (arquiteturas de referência GCP), Santander, Zurich, Banco ABC e governo, combinando visão estratégica com excelência técnica em Cloud, DevOps e Agile.
 
 📍 Piracicaba, São Paulo, Brasil
 
-## 💼 Experiência Profissional
+</td>
+</tr>
+</table>
 
-### Technical Architecture Director
-**Avanade** | Piracicaba, SP
-- Liderança técnica em arquitetura de soluções cloud
-- 11x Microsoft Most Valuable Professional (MVP) - 2011 a 2022
-- Especialista em transformação digital e modernização de aplicações
+## 💼 Destaques da Experiência
+
+### Technical Architecture Director @ Avanade
+**Maio 2024 - Presente** | São Paulo, Brasil
+
+**Bradesco - Transformação Digital em Escala:**
+- Liderança na migração de 30.000+ repositórios para GitHub Enterprise
+- Redução do tempo de deploy de APIs de 15 dias para 10 minutos através de automação DevOps
+- Capacitação de 4.000+ desenvolvedores em práticas modernas de desenvolvimento
+- Implementação de governança técnica para 75% das transações migradas para cloud
+
+### Experiência Anterior
+- **Accenture Brasil** - Cloud Enterprise Architect Senior Manager (2020-2022)
+  - Chapter Lead DevOps/SRE para AB-InBev, criação de arquiteturas de referência em GCP
+  - Projetos estratégicos para Santander, Zurich, Banco ABC em cloud multi-vendor
+- **CI&T** - Principal Architect (2020)
+  - Arquitetura de infraestrutura e pipelines DevOps para e-commerce B2B da AB-InBev
+- **GFT Group** - Senior DevOps & Cloud Architect (2018-2019)
+  - Migração e automação multicloud para instituições financeiras
+- **Microsoft** - ALM Consultant (2008-2010)
+  - Projetos ALM para bancos e governo, migração de plataformas críticas
 
 ## 🌟 Premiações e Reconhecimento
 
@@ -89,11 +118,12 @@ Este prêmio reconhece a contribuição significativa em capacitar clientes a de
   <img src="assets/badges/azure-fundamentals.png" alt="Azure Fundamentals" width="100"/>
 </p>
 
-- **Azure Solutions Architect Expert**
-- **DevOps Engineer Expert**
-- **Azure Developer Associate**
-- **Azure Administrator Associate**
-- **Azure Security Engineer Associate**
+- **Azure Solutions Architect Expert** (Exp: Dec 2026)
+- **DevOps Engineer Expert** (Exp: Oct 2026)
+- **Azure Developer Associate** (Exp: Jan 2027)
+- **Azure Administrator Associate** (Exp: Oct 2026)
+- **Azure Security Engineer Associate** (Exp: May 2026)
+- Azure AI Fundamentals
 - Azure Data Fundamentals
 - Azure Fundamentals
 
@@ -195,14 +225,26 @@ Este prêmio reconhece a contribuição significativa em capacitar clientes a de
   <img src="assets/badges/exam-498.png" alt="Exam 498" width="100"/>
 </p>
 
-- AZ-400: Designing and Implementing Microsoft DevOps Solutions
-- Exam 532: Developing Microsoft Azure Solutions
-- Exam 533: Implementing Microsoft Azure Infrastructure Solutions
-- Exam 534: Architecting Microsoft Azure Solutions
-- Exam 535: Architecting Microsoft Azure Solutions
-- Exam 496: Administering Visual Studio Team Foundation Server
-- Exam 497: Software Testing with Visual Studio
-- Exam 498: Delivering Continuous Value with Visual Studio ALM
+**Azure & Cloud Exams:**
+- AI-900: Microsoft Azure AI Fundamentals (2024)
+- DP-900: Microsoft Azure Data Fundamentals (2021)
+- AZ-900: Microsoft Azure Fundamentals (2021)
+- AZ-500: Microsoft Azure Security Technologies (2020)
+- AZ-400: Designing and Implementing Microsoft DevOps Solutions (2018)
+- AZ-302: Microsoft Azure Solutions Architect Certification Transition (2018)
+- AZ-203: Developing Solutions for Microsoft Azure (2020)
+- AZ-102: Microsoft Azure Administrator Certification Transition (2019)
+- 535: Architecting Microsoft Azure Solutions (2018)
+- 534: Architecting Microsoft Azure Solutions (2017)
+- 533: Implementing Microsoft Azure Infrastructure Solutions (2016)
+- 532: Developing Microsoft Azure Solutions (2017)
+
+**Application Lifecycle Management (ALM):**
+- 512: Visual Studio Team Foundation Server 2010, Administration (2011)
+- 510: Microsoft Team Foundation Server - Configuration and Development (2009)
+- 498: Delivering Continuous Value with Visual Studio ALM (2012)
+- 497: Software Testing with Visual Studio (2012)
+- 496: Administering Visual Studio Team Foundation Server (2012)
 
 ### 🏅 Microsoft Legacy Certifications
 <p align="left">
@@ -211,7 +253,14 @@ Este prêmio reconhece a contribuição significativa em capacitar clientes a de
   <img src="assets/badges/mcse-cloud-2018.png" alt="MCSE 2018" width="100"/>
 </p>
 
-- MCSA: Cloud Platform 2017
+- MCSE: Cloud Platform and Infrastructure (2018)
+- MCSD: Azure Solutions Architect (2017)
+- MCSD: Application Lifecycle Management (2012)
+- MCSA: Cloud Platform Charter Member (2017)
+- Microsoft Specialist: Architecting Microsoft Azure Solutions
+- Microsoft Specialist: Developing Microsoft Azure Solutions
+- Microsoft Specialist: Implementing Microsoft Azure Infrastructure Solutions
+- Microsoft Certified Professional
 - MCSE: Cloud Platform and Infrastructure 2017
 - MCSE: Cloud Platform and Infrastructure 2018
 
@@ -233,9 +282,19 @@ Este prêmio reconhece a contribuição significativa em capacitar clientes a de
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
+## � Publicações
+
+- **Team Foundation Build Customization Guide** - Guia de personalização de builds
+- **MVA Fundamentos de DevOps** - Microsoft Virtual Academy
+- **MVA Administering Visual Studio Team Foundation Server 2012** - Curso preparatório para exame 70-496
+- **Build Usage Extension** - Extensão para Azure DevOps
+
 ## 📫 Como me encontrar
 
+- 📧 Email: [andre.dias@outlook.com](mailto:andre.dias@outlook.com)
+- 📱 Telefone: [+55 11 99645-8166](tel:+5511996458166)
 - 💼 LinkedIn: [andrediasbr](https://www.linkedin.com/in/andrediasbr/)
+- 🏆 Credly: [andredias](https://www.credly.com/users/andredias/badges)
 - 🐱 GitHub: [@andrediasbr](https://github.com/andrediasbr)
 
 ---
