@@ -6,13 +6,6 @@
 
 ## 🚀 Sobre Mim
 
-<table>
-<tr>
-<td width="20%">
-<img src="assets/profile/andre-github-universe-trophy.jpg" alt="André Dias" width="100%"/>
-</td>
-<td width="80%">
-
 **Technical Architecture Director @ Avanade** | 11x Microsoft MVP | 60+ Certificações | Cloud Solutions Architect
 
 Líder técnico com 25+ anos de experiência em transformação digital, desde startups até multinacionais como Microsoft (Brasil e Europa), Accenture, e Avanade. Especializado em arquiteturas multicloud (Azure, AWS, GCP) e práticas DevOps em escala enterprise.
@@ -22,10 +15,6 @@ Reconhecido com o **GitHub Partner Award 2025** (GSI Services Partner of the Yea
 Ao longo da carreira, atuei em projetos estratégicos para organizações como Bradesco (migração de 30.000+ repositórios GitHub Enterprise), AB-InBev (arquiteturas de referência GCP), Santander, Zurich, Banco ABC e governo, combinando visão estratégica com excelência técnica em Cloud, DevOps e Agile.
 
 📍 Piracicaba, São Paulo, Brasil
-
-</td>
-</tr>
-</table>
 
 ## 💼 Destaques da Experiência
 
@@ -291,9 +280,7 @@ Este prêmio reconhece a contribuição significativa em capacitar clientes a de
 
 ## 📫 Como me encontrar
 
-- 📧 Email: [andre.dias@outlook.com](mailto:andre.dias@outlook.com)
-- 📱 Telefone: [+55 11 99645-8166](tel:+5511996458166)
-- 💼 LinkedIn: [andrediasbr](https://www.linkedin.com/in/andrediasbr/)
+-  LinkedIn: [andrediasbr](https://www.linkedin.com/in/andrediasbr/)
 - 🏆 Credly: [andredias](https://www.credly.com/users/andredias/badges)
 - 🐱 GitHub: [@andrediasbr](https://github.com/andrediasbr)
 
