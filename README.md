@@ -262,4 +262,4 @@ Assim como no Jiu-Jitsu, onde cada posição exige estratégia e adaptação con
 - 📺 YouTube: [andrediasbr](https://www.youtube.com/andrediasbr)
 - 📷 Instagram: [andrediasbr](https://instagram.com/andrediasbr)
 - 🐦 Twitter: [andrediasbr](https://twitter.com/andrediasbr)
-
+- 📝 Blog: [andrediasbr.com](http://andrediasbr.com/)

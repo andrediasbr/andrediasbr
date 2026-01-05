@@ -262,3 +262,4 @@ Just like in Jiu-Jitsu, where each position requires strategy and constant adapt
 - 📺 YouTube: [andrediasbr](https://www.youtube.com/andrediasbr)
 - 📷 Instagram: [@andredias](https://instagram.com/andredias)
 - 🐦 Twitter: [@andrediasbr](https://twitter.com/andrediasbr)
+- 📝 Blog: [andrediasbr.com](http://andrediasbr.com/)
