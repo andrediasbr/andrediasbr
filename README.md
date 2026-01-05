@@ -77,6 +77,7 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia�
   <img src="assets/badges/azure-developer.png" alt="Azure Developer Associate" height="100"/>
   <img src="assets/badges/azure-administrator.png" alt="Azure Administrator Associate" height="100"/>
   <img src="assets/badges/azure-security.png" alt="Azure Security Engineer Associate" height="100"/>
+  <img src="assets/badges/azure-ai-fundamentals.png" alt="Azure AI Fundamentals" height="100"/>
   <img src="assets/badges/azure-data-fundamentals.png" alt="Azure Data Fundamentals" height="100"/>
   <img src="assets/badges/azure-fundamentals.png" alt="Azure Fundamentals" height="100"/>
 </p>
@@ -107,8 +108,8 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia�
   <img src="assets/badges/gcp-associate-engineer.png" alt="Associate Cloud Engineer" height="100"/>
 </p>
 
-- **Professional Cloud Architect**
-- **Associate Cloud Engineer**
+- **Google Cloud Certified - Professional Cloud Architect**
+- **Google Cloud Certified - Associate Cloud Engineer**
 
 ### 🔧 DevOps & Tools
 
@@ -154,10 +155,7 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia�
 <p align="left">  
   <img src="assets/badges/mcsd-alm.png" alt="MCSD ALM" height="100" style="margin-right: 10px;"/>
   <img src="assets/badges/mcsd-azure-architect.png" alt="MCSD Azure Architect" height="100" style="margin-right: 10px;"/>
-  <img src="assets/badges/mcse-cloud.png" alt="MCSE Cloud" height="100" style="margin-right: 10px;"/>
-  <img src="assets/badges/exam-498.png" alt="Exam 498" height="100" style="margin-right: 10px;"/>
-  <img src="assets/badges/exam-497.png" alt="Exam 497" height="100" style="margin-right: 10px;"/>
-  <img src="assets/badges/exam-496.png" alt="Exam 496" height="100" style="margin-right: 10px;"/>
+  <img src="assets/badges/mcse-cloud.png" alt="MCSE Cloud" height="100" style="margin-right: 10px;"/>  
   <img src="assets/badges/exam-512.png" alt="Exam 512" height="100" style="margin-right: 10px;"/>
   <img src="assets/badges/exam-510.png" alt="Exam 510" height="100"/>
 </p>
@@ -173,28 +171,29 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia�
 
 ### 📚 Metodologias Ágeis
 <p align="left">
+  <img src="assets/badges/pst.png" alt="Professional Scrum Trainer" height="100"/>
   <img src="assets/badges/sps-scrum.png" alt="Scaled Professional Scrum" height="100"/>
   <img src="assets/badges/psm.png" alt="Professional Scrum Master" height="100"/>
   <img src="assets/badges/psd-scrum.png" alt="Professional Scrum Developer" height="100"/>
   <img src="assets/badges/csm.jpg" alt="Certified Scrum Master" height="100"/>
-  <img src="assets/badges/pst.png" alt="Professional Scrum Trainer" height="100"/>
 </p>
 
-- **Scaled Professional Scrum™ (SPS)**
-- **Professional Scrum Master™ I (PSM I)**
-- **Professional Scrum Developer™ I (PSD I)**
-- **Certified Scrum Master (CSM)**
 - **Professional Scrum Trainer (PST)**
+- **Scaled Professional Scrum™ (SPS)**
+- Professional Scrum Master™ I (PSM I)
+- Professional Scrum Developer™ I (PSD I)
+- Certified Scrum Master (CSM)
+
 
 ### 💻 Desenvolvimento de Software (Legacy)
 <p align="left">
-  <img src="assets/badges/java-programmer.gif" alt="Java Programmer" height="100" style="margin-right: 10px;"/>
-  <img src="assets/badges/java-web-component.gif" alt="Java Web Component Developer" height="100" style="margin-right: 10px;"/>
-  <img src="assets/badges/mcp.jpg" alt="MCP" height="100"/>
+  <img src="assets/badges/java-programmer.gif" alt="Java Programmer" height="85" style="margin-right: 10px;"/>
+  <img src="assets/badges/java-web-component.gif" alt="Java Web Component Developer" height="85" style="margin-right: 10px;"/>
+  <img src="assets/badges/mcp.jpg" alt="MCP" height="85"/>
 </p>
 
-- **Sun Certified Java Programmer**
-- **Sun Certified Web Component Developer**
+- Sun Certified Java Programmer
+- Sun Certified Web Component Developer
 - 536: TS: Microsoft .NET Framework - Application Development Foundation
 - 315: Developing and Implementing Web Applications with Microsoft Visual C#™ .NET and Microsoft Visual Studio .NET
 - 316: Developing and Implementing Windows-based Applications with Microsoft Visual C#™ .NET and Microsoft Visual Studio .NET
