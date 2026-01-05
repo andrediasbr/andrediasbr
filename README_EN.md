@@ -1,31 +1,31 @@
-# 👋 Olá, eu sou André Dias
+# 👋 Hi, I'm André Dias
 
-> **[🇺🇸 English Version](README_EN.md)**
+> **[🇧🇷 Versão em Português](README.md)**
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
 **Technical Architecture Director @ Avanade | Cloud, DevOps & Platform Engineering | 11x Microsoft MVP**
 
-Executivo de tecnologia com mais de 25 anos de experiência em arquitetura de software, cloud computing, DevOps e transformação digital, atuando na liderança de iniciativas estratégicas para grandes bancos, empresas globais, governo e consultorias internacionais. Reconhecido globalmente como **Microsoft Most Valuable Professional** por 11 anos consecutivos, com forte atuação na construção de plataformas escaláveis, times de alta performance e entregas de alto impacto para o negócio.
+Technology executive with over 25 years of experience in software architecture, cloud computing, DevOps, and digital transformation, leading strategic initiatives for major banks, global companies, government, and international consultancies. Globally recognized as **Microsoft Most Valuable Professional** for 11 consecutive years, with strong expertise in building scalable platforms, high-performance teams, and delivering high-impact business outcomes.
 
-Atuo na **interseção entre estratégia, arquitetura e execução**, ajudando organizações a modernizar seus ambientes, acelerar a entrega de valor e operar cloud em escala com segurança, governança e eficiência.
+I work at the **intersection of strategy, architecture, and execution**, helping organizations modernize their environments, accelerate value delivery, and operate cloud at scale with security, governance, and efficiency.
 
-### 🎯 Principais Áreas de Atuação
+### 🎯 Key Areas of Expertise
 
-- Arquitetura de soluções em Azure, AWS e Google Cloud
-- DevOps, CI/CD, Platform Engineering e Infrastructure as Code
-- Modernização de aplicações e microservices
-- Cloud Governance, Security, FinOps e Observabilidade
-- Liderança técnica executiva, recovery de projetos críticos
-- Atuação forte em Financial Services, Governo, Seguros e Indústria
+- Solution Architecture on Azure, AWS, and Google Cloud
+- DevOps, CI/CD, Platform Engineering, and Infrastructure as Code
+- Application Modernization and Microservices
+- Cloud Governance, Security, FinOps, and Observability
+- Executive Technical Leadership and Critical Project Recovery
+- Strong presence in Financial Services, Government, Insurance, and Industry
 
-### 💡 Perfil
+### 💡 Profile
 
-Apaixonado por tecnologia, pessoas e resultados. Experiência comprovada em liderar times, escalar plataformas, resolver problemas complexos e conectar tecnologia à estratégia de negócio.
+Passionate about technology, people, and results. Proven experience in leading teams, scaling platforms, solving complex problems, and connecting technology to business strategy.
 
-## 🌟 Premiações e Reconhecimento
+## 🌟 Awards and Recognition
 
-### Microsoft Most Valuable Professional (MVP) - 11 Anos Consecutivos
+### Microsoft Most Valuable Professional (MVP) - 11 Consecutive Years
 
 <table>
 <tr>
@@ -58,17 +58,17 @@ Apaixonado por tecnologia, pessoas e resultados. Experiência comprovada em lide
   <img src="assets/github-partner-award/gsi-services-badge-2025.png" alt="GitHub Partner of the Year 2025 - GSI Services" height="150"/>
 </p>
 
-Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premiação de **Partner of the Year** do GitHub em San Francisco, onde recebemos o prêmio de melhor parceiro do mundo na principal categoria da competição devido às contribuições significativas para inovação, segurança e adoção de IA nos projetos de nossos clientes.
+In October 2025, I had the honor of representing Avanade & Accenture at the GitHub **Partner of the Year** awards in San Francisco, where we received the award for best partner in the world in the main category due to significant contributions to innovation, security, and AI adoption in our clients' projects.
 
 <p align="left">
-  <img src="assets/github-partner-award/andre-trophy.jpg" alt="André Dias com troféu GitHub Partner Award" height="200"/>
-  <img src="assets/github-partner-award/team-award-1.jpg" alt="Equipe Avanade no GitHub Partner Award" height="200"/>
-  <img src="assets/github-partner-award/team-award-2.jpg" alt="Equipe Avanade no GitHub Universe" height="200"/>
+  <img src="assets/github-partner-award/andre-trophy.jpg" alt="André Dias with GitHub Partner Award trophy" height="200"/>
+  <img src="assets/github-partner-award/team-award-1.jpg" alt="Avanade team at GitHub Partner Award" height="200"/>
+  <img src="assets/github-partner-award/team-award-2.jpg" alt="Avanade team at GitHub Universe" height="200"/>
 </p>
 
-**Saiba mais:** [GitHub Partner Awards 2025](https://github.blog/news-insights/company-news/announcing-the-2025-github-partner-award-winners/)
+**Learn more:** [GitHub Partner Awards 2025](https://github.blog/news-insights/company-news/announcing-the-2025-github-partner-award-winners/)
 
-## 🏆 Certificações
+## 🏆 Certifications
 
 ### ☁️ Cloud Platforms
 
@@ -171,7 +171,7 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia�
 - 512: Visual Studio Team Foundation Server 2010, Administration
 - 510: Microsoft Team Foundation Server - Configuration and Development
 
-### 📚 Metodologias Ágeis
+### 📚 Agile Methodologies
 <p align="left">
   <img src="assets/badges/pst.png" alt="Professional Scrum Trainer" height="100"/>
   <img src="assets/badges/sps-scrum.png" alt="Scaled Professional Scrum" height="100"/>
@@ -187,7 +187,7 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia�
 - Certified Scrum Master (CSM)
 
 
-### 💻 Desenvolvimento de Software (Legacy)
+### 💻 Software Development (Legacy)
 <p align="left">
   <img src="assets/badges/java-programmer.gif" alt="Java Programmer" height="85" style="margin-right: 10px;"/>
   <img src="assets/badges/java-web-component.gif" alt="Java Web Component Developer" height="85" style="margin-right: 10px;"/>
@@ -201,34 +201,34 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia�
 - 316: Developing and Implementing Windows-based Applications with Microsoft Visual C#™ .NET and Microsoft Visual Studio .NET
 - 176: Designing and Implementing Desktop Applications with Microsoft Visual Basic 6.0
 
-### 🌱 Sustentabilidade
+### 🌱 Sustainability
 <p align="left">
   <img src="assets/badges/green-software.png" alt="Green Software for Practitioners" height="100"/>
 </p>
 
 - LFC131: Green Software for Practitioners (Linux Foundation)
 
-## 🎓 Formação Acadêmica
+## 🎓 Education
 
-- **Bacharel em Ciência da Computação**
+- **Bachelor's Degree in Computer Science**
 
-## 💼 Destaques da Experiência
+## 💼 Experience Highlights
 
-### Senior Manager / Director  – Accenture / Avanade (2020 - Presente)
-Liderança de programas estratégicos de cloud e arquitetura para grandes instituições financeiras, incluindo migrações em larga escala, definição de landing zones, padrões corporativos de segurança, identidade, conectividade e DevOps.
+### Senior Manager / Director – Accenture / Avanade (2020 - Present)
+Leadership of strategic cloud and architecture programs for major financial institutions, including large-scale migrations, landing zone definition, corporate security, identity, connectivity, and DevOps standards.
 
 ### Principal / Enterprise Architect – CI&T | GFT Technologies (2018 - 2020)
-Atuação em projetos críticos no mercado financeiro e de capital markets, com foco em modernização arquitetural, automação, cloud e turnaround de contratos em risco.
-- Arquitetura de infraestrutura e pipelines DevOps para e-commerce B2B da AB-InBev
-- Migração e automação multicloud para instituições financeiras
+Working on critical projects in the financial and capital markets sector, focusing on architectural modernization, automation, cloud, and turnaround of at-risk contracts.
+- Infrastructure architecture and DevOps pipelines for AB-InBev B2B e-commerce
+- Multi-cloud migration and automation for financial institutions
 
 ### COO / CTO – ESX (2015 - 2018)
-Responsável pela transformação da empresa em referência nacional em Cloud, DevOps e AI, liderando crescimento acelerado, inovação, aumento significativo de margem operacional e criação de novos produtos digitais.
+Responsible for transforming the company into a national reference in Cloud, DevOps, and AI, leading accelerated growth, innovation, significant operational margin increase, and creation of new digital products.
 
-### Consultor – Microsoft Brasil (2008 - 2010)
-Atuação em projetos estratégicos de grande relevância nacional, incluindo Internet Banking, DevOps no setor público e governo, além de contribuição ativa para comunidades técnicas.
+### Consultant – Microsoft Brasil (2008 - 2010)
+Working on strategic projects of great national relevance, including Internet Banking, DevOps in the public sector and government, as well as active contribution to technical communities.
 
-## 🥋 Além do Código: Jiu-Jitsu
+## 🥋 Beyond Code: Jiu-Jitsu
 
 <table>
 <tr>
@@ -237,20 +237,19 @@ Atuação em projetos estratégicos de grande relevância nacional, incluindo In
 </td>
 <td width="70%">
 
-Praticante e faixa azul de **Jiu-Jitsu**, levo muitos dos ensinamentos do tatame para o dia a dia profissional e vice-versa. A disciplina, resiliência e capacidade de trabalhar sob pressão que desenvolvo no tatame se refletem diretamente na forma como abordo desafios técnicos e lidero equipes.
+Practitioner and blue belt in **Jiu-Jitsu**, I bring many of the teachings from the mat to my professional daily life and vice versa. The discipline, resilience, and ability to work under pressure that I develop on the mat are directly reflected in how I approach technical challenges and lead teams.
 
-Assim como no Jiu-Jitsu, onde cada posição exige estratégia e adaptação constante, a arquitetura de software e a liderança técnica demandam planejamento, persistência e a habilidade de transformar situações adversas em oportunidades de crescimento.
+Just like in Jiu-Jitsu, where each position requires strategy and constant adaptation, software architecture and technical leadership demand planning, persistence, and the ability to transform adverse situations into growth opportunities.
 
 </td>
 </tr>
 </table>
 
-## 📫 Como me encontrar
+## 📫 How to Find Me
 
 - 💼 LinkedIn: [andrediasbr](https://www.linkedin.com/in/andrediasbr/)
 - 🏆 Credly: [andredias](https://www.credly.com/users/andredias/badges)
-- 🐱 GitHub: [andrediasbr](https://github.com/andrediasbr)
+- 🐱 GitHub: [@andrediasbr](https://github.com/andrediasbr)
 - 📺 YouTube: [andrediasbr](https://www.youtube.com/andrediasbr)
-- 📷 Instagram: [andrediasbr](https://instagram.com/andrediasbr)
-- 🐦 Twitter: [andrediasbr](https://twitter.com/andrediasbr)
-
+- 📷 Instagram: [@andredias](https://instagram.com/andredias)
+- 🐦 Twitter: [@andrediasbr](https://twitter.com/andrediasbr)
