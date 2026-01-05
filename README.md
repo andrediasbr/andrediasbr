@@ -173,14 +173,12 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia�
 
 ### 📚 Metodologias Ágeis
 <p align="left">
-  <img src="assets/badges/pst.png" alt="Professional Scrum Trainer" height="100"/>
   <img src="assets/badges/sps-scrum.png" alt="Scaled Professional Scrum" height="100"/>
   <img src="assets/badges/psm.png" alt="Professional Scrum Master" height="100"/>
   <img src="assets/badges/psd-scrum.png" alt="Professional Scrum Developer" height="100"/>
   <img src="assets/badges/csm.jpg" alt="Certified Scrum Master" height="100"/>
 </p>
 
-- **Professional Scrum Trainer (PST)**
 - **Scaled Professional Scrum™ (SPS)**
 - Professional Scrum Master™ I (PSM I)
 - Professional Scrum Developer™ I (PSD I)
@@ -207,6 +205,17 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia�
 </p>
 
 - LFC131: Green Software for Practitioners (Linux Foundation)
+
+## 🎓 Instrutor
+
+### 👨‍🏫 Credenciais de Instrutor
+<p align="left">
+  <img src="assets/badges/pst.png" alt="Professional Scrum Trainer" height="100"/>
+  <img src="assets/badges/mct.png" alt="Microsoft Certified Trainer" height="100"/>
+</p>
+
+- **Professional Scrum Trainer (PST)** - (2010 - 2012)
+- **Microsoft Certified Trainer (MCT)** - (2013 - atual)
 
 ## 🎓 Formação Acadêmica
 
