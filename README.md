@@ -153,11 +153,11 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia√
 
 #### Microsoft Cloud, DevOps & Application Lifecycle Management (ALM) Legacy Certifications
 <p align="left">  
-  <img src="assets/badges/mcsd-alm.png" alt="MCSD ALM" height="100" style="margin-right: 10px;"/>
-  <img src="assets/badges/mcsd-azure-architect.png" alt="MCSD Azure Architect" height="100" style="margin-right: 10px;"/>
-  <img src="assets/badges/mcse-cloud.png" alt="MCSE Cloud" height="100" style="margin-right: 10px;"/>  
-  <img src="assets/badges/exam-512.png" alt="Exam 512" height="100" style="margin-right: 10px;"/>
-  <img src="assets/badges/exam-510.png" alt="Exam 510" height="100"/>
+  <img src="assets/badges/mcsd-alm.png" alt="MCSD ALM" width="100" style="margin-right: 10px; vertical-align: top;"/>
+  <img src="assets/badges/mcsd-azure-architect.png" alt="MCSD Azure Architect" width="100" style="margin-right: 10px; vertical-align: top;"/>
+  <img src="assets/badges/mcse-cloud.png" alt="MCSE Cloud" width="100" style="margin-right: 10px; vertical-align: top;"/>  
+  <img src="assets/badges/exam-512.png" alt="Exam 512" width="100" style="margin-right: 10px; vertical-align: top;"/>
+  <img src="assets/badges/exam-510.png" alt="Exam 510" width="100" style="vertical-align: top;"/>
 </p>
 
 - **Microsoft Certified Solutions Developer: Application Lifecycle Management**
