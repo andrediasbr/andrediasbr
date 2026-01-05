@@ -72,13 +72,13 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia�
 
 #### Microsoft Azure
 <p align="left">
-  <img src="assets/badges/azure-solutions-architect.png" alt="Azure Solutions Architect Expert" width="100"/>
-  <img src="assets/badges/azure-devops-engineer.png" alt="DevOps Engineer Expert" width="100"/>
-  <img src="assets/badges/azure-developer.png" alt="Azure Developer Associate" width="100"/>
-  <img src="assets/badges/azure-administrator.png" alt="Azure Administrator Associate" width="100"/>
-  <img src="assets/badges/azure-security.png" alt="Azure Security Engineer Associate" width="100"/>
-  <img src="assets/badges/azure-data-fundamentals.png" alt="Azure Data Fundamentals" width="100"/>
-  <img src="assets/badges/azure-fundamentals.png" alt="Azure Fundamentals" width="100"/>
+  <img src="assets/badges/azure-solutions-architect.png" alt="Azure Solutions Architect Expert" height="100"/>
+  <img src="assets/badges/azure-devops-engineer.png" alt="DevOps Engineer Expert" height="100"/>
+  <img src="assets/badges/azure-developer.png" alt="Azure Developer Associate" height="100"/>
+  <img src="assets/badges/azure-administrator.png" alt="Azure Administrator Associate" height="100"/>
+  <img src="assets/badges/azure-security.png" alt="Azure Security Engineer Associate" height="100"/>
+  <img src="assets/badges/azure-data-fundamentals.png" alt="Azure Data Fundamentals" height="100"/>
+  <img src="assets/badges/azure-fundamentals.png" alt="Azure Fundamentals" height="100"/>
 </p>
 
 - **Azure Solutions Architect Expert**
@@ -92,9 +92,9 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia�
 
 #### Amazon Web Services (AWS)
 <p align="left">
-  <img src="assets/badges/aws-solutions-architect.png" alt="AWS Solutions Architect Associate" width="100"/>
-  <img src="assets/badges/aws-sysops.png" alt="AWS SysOps Administrator Associate" width="100"/>
-  <img src="assets/badges/aws-cloud-practitioner.png" alt="AWS Cloud Practitioner" width="100"/>
+  <img src="assets/badges/aws-solutions-architect.png" alt="AWS Solutions Architect Associate" height="100"/>
+  <img src="assets/badges/aws-sysops.png" alt="AWS SysOps Administrator Associate" height="100"/>
+  <img src="assets/badges/aws-cloud-practitioner.png" alt="AWS Cloud Practitioner" height="100"/>
 </p>
 
 - **AWS Certified Solutions Architect – Associate**
@@ -103,8 +103,8 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia�
 
 #### Google Cloud Platform (GCP)
 <p align="left">
-  <img src="assets/badges/gcp-architect.png" alt="Professional Cloud Architect" width="100"/>
-  <img src="assets/badges/gcp-associate-engineer.png" alt="Associate Cloud Engineer" width="100"/>
+  <img src="assets/badges/gcp-architect.png" alt="Professional Cloud Architect" height="100"/>
+  <img src="assets/badges/gcp-associate-engineer.png" alt="Associate Cloud Engineer" height="100"/>
 </p>
 
 - **Professional Cloud Architect**
@@ -114,19 +114,19 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia�
 
 #### GitHub
 <p align="left">
-  <img src="assets/badges/github-administration.png" alt="GitHub Administration" width="100"/>
-  <img src="assets/badges/github-advanced-security.png" alt="GitHub Advanced Security" width="100"/>
-  <img src="assets/badges/github-actions.png" alt="GitHub Actions" width="100"/>
-  <img src="assets/badges/github-copilot.png" alt="GitHub Copilot" width="100"/>
-  <img src="assets/badges/github-foundations.png" alt="GitHub Foundations" width="100"/>
-  <img src="assets/badges/github-migrations.png" alt="GitHub Migrations Partner" width="100"/>
-  <img src="assets/badges/github-azdo-migrations.png" alt="AzureDevOps to GitHub Migrations" width="100"/>
-  <img src="assets/badges/github-tech-sales.png" alt="GitHub Tech Sales Professional" width="100"/>
-  <img src="assets/badges/github-sales-professional.png" alt="GitHub Sales Professional" width="100"/>
-  <img src="assets/badges/github-platform-sales.png" alt="GitHub Platform Sales" width="100"/>
-  <img src="assets/badges/github-security-sales.png" alt="GitHub Security Sales" width="100"/>
-  <img src="assets/badges/github-copilot-sales.png" alt="GitHub Copilot Sales" width="100"/>
-  <img src="assets/badges/github-revenue-motions.png" alt="GitHub Revenue Motions" width="100"/>
+  <img src="assets/badges/github-administration.png" alt="GitHub Administration" height="100"/>
+  <img src="assets/badges/github-advanced-security.png" alt="GitHub Advanced Security" height="100"/>
+  <img src="assets/badges/github-actions.png" alt="GitHub Actions" height="100"/>
+  <img src="assets/badges/github-copilot.png" alt="GitHub Copilot" height="100"/>
+  <img src="assets/badges/github-foundations.png" alt="GitHub Foundations" height="100"/>
+  <img src="assets/badges/github-migrations.png" alt="GitHub Migrations Partner" height="100"/>
+  <img src="assets/badges/github-azdo-migrations.png" alt="AzureDevOps to GitHub Migrations" height="100"/>
+  <img src="assets/badges/github-tech-sales.png" alt="GitHub Tech Sales Professional" height="100"/>
+  <img src="assets/badges/github-sales-professional.png" alt="GitHub Sales Professional" height="100"/>
+  <img src="assets/badges/github-platform-sales.png" alt="GitHub Platform Sales" height="100"/>
+  <img src="assets/badges/github-security-sales.png" alt="GitHub Security Sales" height="100"/>
+  <img src="assets/badges/github-copilot-sales.png" alt="GitHub Copilot Sales" height="100"/>
+  <img src="assets/badges/github-revenue-motions.png" alt="GitHub Revenue Motions" height="100"/>
 </p>
 
 - **GitHub Administration**
@@ -145,18 +145,26 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia�
 
 #### HashiCorp
 <p align="left">
-  <img src="assets/badges/terraform.png" alt="Terraform Associate" width="100"/>
+  <img src="assets/badges/terraform.png" alt="Terraform Associate" height="100"/>
 </p>
 
 - Terraform Associate (002)
 
-#### Microsoft DevOps & Application Lifecycle Management (ALM) Legacy Certifications
+#### Microsoft Cloud, DevOps & Application Lifecycle Management (ALM) Legacy Certifications
 <p align="left">  
-  <img src="assets/badges/exam-498.png" alt="Exam 498" width="100"/>
-  <img src="assets/badges/exam-497.png" alt="Exam 497" width="100"/>
-  <img src="assets/badges/exam-496.png" alt="Exam 496" width="100"/>
+  <img src="assets/badges/mcsd-alm.png" alt="MCSD ALM" height="100" style="margin-right: 10px;"/>
+  <img src="assets/badges/mcsd-azure-architect.png" alt="MCSD Azure Architect" height="100" style="margin-right: 10px;"/>
+  <img src="assets/badges/mcse-cloud.png" alt="MCSE Cloud" height="100" style="margin-right: 10px;"/>
+  <img src="assets/badges/exam-498.png" alt="Exam 498" height="100" style="margin-right: 10px;"/>
+  <img src="assets/badges/exam-497.png" alt="Exam 497" height="100" style="margin-right: 10px;"/>
+  <img src="assets/badges/exam-496.png" alt="Exam 496" height="100" style="margin-right: 10px;"/>
+  <img src="assets/badges/exam-512.png" alt="Exam 512" height="100" style="margin-right: 10px;"/>
+  <img src="assets/badges/exam-510.png" alt="Exam 510" height="100"/>
 </p>
 
+- **Microsoft Certified Solutions Developer: Application Lifecycle Management**
+- **Microsoft Certified Solutions Developer: Azure Solutions Architect**
+- **Microsoft Certified Solutions Expert: Cloud Platform and Infrastructure**
 - 498: Delivering Continuous Value with Visual Studio ALM
 - 497: Software Testing with Visual Studio
 - 496: Administering Visual Studio Team Foundation Server
@@ -165,18 +173,36 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia�
 
 ### 📚 Metodologias Ágeis
 <p align="left">
-  <img src="assets/badges/sps-scrum.png" alt="Scaled Professional Scrum" width="100"/>
-  <img src="assets/badges/psm.png" alt="Professional Scrum Master" width="100"/>
-  <img src="assets/badges/psd-scrum.png" alt="Professional Scrum Developer" width="100"/>
+  <img src="assets/badges/sps-scrum.png" alt="Scaled Professional Scrum" height="100"/>
+  <img src="assets/badges/psm.png" alt="Professional Scrum Master" height="100"/>
+  <img src="assets/badges/psd-scrum.png" alt="Professional Scrum Developer" height="100"/>
+  <img src="assets/badges/csm.jpg" alt="Certified Scrum Master" height="100"/>
+  <img src="assets/badges/pst.png" alt="Professional Scrum Trainer" height="100"/>
 </p>
 
 - **Scaled Professional Scrum™ (SPS)**
 - **Professional Scrum Master™ I (PSM I)**
 - **Professional Scrum Developer™ I (PSD I)**
+- **Certified Scrum Master (CSM)**
+- **Professional Scrum Trainer (PST)**
+
+### 💻 Desenvolvimento de Software (Legacy)
+<p align="left">
+  <img src="assets/badges/java-programmer.gif" alt="Java Programmer" height="100" style="margin-right: 10px;"/>
+  <img src="assets/badges/java-web-component.gif" alt="Java Web Component Developer" height="100" style="margin-right: 10px;"/>
+  <img src="assets/badges/mcp.jpg" alt="MCP" height="100"/>
+</p>
+
+- **Sun Certified Java Programmer**
+- **Sun Certified Web Component Developer**
+- 536: TS: Microsoft .NET Framework - Application Development Foundation
+- 315: Developing and Implementing Web Applications with Microsoft Visual C#™ .NET and Microsoft Visual Studio .NET
+- 316: Developing and Implementing Windows-based Applications with Microsoft Visual C#™ .NET and Microsoft Visual Studio .NET
+- 176: Designing and Implementing Desktop Applications with Microsoft Visual Basic 6.0
 
 ### 🌱 Sustentabilidade
 <p align="left">
-  <img src="assets/badges/green-software.png" alt="Green Software for Practitioners" width="100"/>
+  <img src="assets/badges/green-software.png" alt="Green Software for Practitioners" height="100"/>
 </p>
 
 - LFC131: Green Software for Practitioners (Linux Foundation)
@@ -220,10 +246,10 @@ Assim como no Jiu-Jitsu, onde cada posição exige estratégia e adaptação con
 
 ## 📫 Como me encontrar
 
--  LinkedIn: [andrediasbr](https://www.linkedin.com/in/andrediasbr/)
+- 💼 LinkedIn: [andrediasbr](https://www.linkedin.com/in/andrediasbr/)
 - 🏆 Credly: [andredias](https://www.credly.com/users/andredias/badges)
-- 🐱 GitHub: [@andrediasbr](https://github.com/andrediasbr)
+- 🐱 GitHub: [andrediasbr](https://github.com/andrediasbr)
+- 📺 YouTube: [andrediasbr](https://www.youtube.com/andrediasbr)
+- 📷 Instagram: [andrediasbr](https://instagram.com/andrediasbr)
+- 🐦 Twitter: [andrediasbr](https://twitter.com/andrediasbr)
 
----
-
-⭐️ From [@andrediasbr](https://github.com/andrediasbr)
