@@ -124,12 +124,13 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia√
   <img src="assets/badges/github-foundations.png" alt="GitHub Foundations" height="100"/>
   <img src="assets/badges/github-migrations.png" alt="GitHub Migrations Partner" height="100"/>
   <img src="assets/badges/github-azdo-migrations.png" alt="AzureDevOps to GitHub Migrations" height="100"/>
-  <img src="assets/badges/github-tech-sales.png" alt="GitHub Tech Sales Professional" height="100"/>
-  <img src="assets/badges/github-sales-professional.png" alt="GitHub Sales Professional" height="100"/>
+  <img src="assets/badges/github-sales-professional-fy26.png" alt="FY26 GitHub Sales Professional" height="100"/>
   <img src="assets/badges/github-platform-sales.png" alt="GitHub Platform Sales" height="100"/>
   <img src="assets/badges/github-security-sales.png" alt="GitHub Security Sales" height="100"/>
   <img src="assets/badges/github-copilot-sales.png" alt="GitHub Copilot Sales" height="100"/>
   <img src="assets/badges/github-revenue-motions.png" alt="GitHub Revenue Motions" height="100"/>
+  <img src="assets/badges/github-tech-sales.png" alt="GitHub Tech Sales Professional" height="100"/>
+  <img src="assets/badges/github-sales-professional.png" alt="GitHub Sales Professional" height="100"/>
 </p>
 
 - **GitHub Administration**
@@ -139,12 +140,13 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia√
 - **GitHub Foundations**
 - GitHub Migrations Partner Delivery Credential
 - AzureDevOps to GitHub Migrations Delivery Credential
-- GitHub Tech Sales Professional
-- GitHub Sales Professional
+- **FY26 GitHub Sales Professional**
 - FY26 GitHub Platform Sales Badge
 - FY26 GitHub Advanced Security Sales Badge
 - FY26 GitHub Copilot Sales Badge
 - FY26 GitHub Revenue Motions Sales Badge
+- GitHub Tech Sales Professional
+- GitHub Sales Professional
 
 #### HashiCorp
 <p align="left">
