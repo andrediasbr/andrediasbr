@@ -124,6 +124,7 @@ In October 2025, I had the honor of representing Avanade & Accenture at the GitH
   <img src="assets/badges/github-foundations.png" alt="GitHub Foundations" height="100"/>
   <img src="assets/badges/github-migrations.png" alt="GitHub Migrations Partner" height="100"/>
   <img src="assets/badges/github-azdo-migrations.png" alt="AzureDevOps to GitHub Migrations" height="100"/>
+  <img src="assets/badges/github-ghas-delivery.png" alt="GitHub Advanced Security Partner Delivery Credential" height="100"/>
   <img src="assets/badges/github-sales-professional-fy26.png" alt="FY26 GitHub Sales Professional" height="100"/>
   <img src="assets/badges/github-platform-sales.png" alt="GitHub Platform Sales" height="100"/>
   <img src="assets/badges/github-security-sales.png" alt="GitHub Security Sales" height="100"/>
@@ -140,7 +141,8 @@ In October 2025, I had the honor of representing Avanade & Accenture at the GitH
 - **GitHub Foundations**
 - GitHub Migrations Partner Delivery Credential
 - AzureDevOps to GitHub Migrations Delivery Credential
-- **FY26 GitHub Sales Professional**
+- GitHub Advanced Security Partner Delivery Credential
+- FY26 GitHub Sales Professional
 - FY26 GitHub Platform Sales Badge
 - FY26 GitHub Advanced Security Sales Badge
 - FY26 GitHub Copilot Sales Badge
