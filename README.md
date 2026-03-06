@@ -98,11 +98,13 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia√
   <img src="assets/badges/aws-solutions-architect.png" alt="AWS Solutions Architect Associate" height="100"/>
   <img src="assets/badges/aws-sysops.png" alt="AWS SysOps Administrator Associate" height="100"/>
   <img src="assets/badges/aws-cloud-practitioner.png" alt="AWS Cloud Practitioner" height="100"/>
+  <img src="assets/badges/aws-well-architected.png" alt="AWS Well-Architected Proficient" height="100"/>
 </p>
 
 - **AWS Certified Solutions Architect ‚Äì Associate**
 - **AWS Certified SysOps Administrator ‚Äì Associate**
 - AWS Certified Cloud Practitioner
+- AWS Well-Architected Proficient
 
 #### Google Cloud Platform (GCP)
 <p align="left">
@@ -125,6 +127,7 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia√
   <img src="assets/badges/github-migrations.png" alt="GitHub Migrations Partner" height="100"/>
   <img src="assets/badges/github-azdo-migrations.png" alt="AzureDevOps to GitHub Migrations" height="100"/>
   <img src="assets/badges/github-ghas-delivery.png" alt="GitHub Advanced Security Partner Delivery Credential" height="100"/>
+  <img src="assets/badges/github-copilot-delivery.png" alt="GitHub Copilot: Core Skills & Application Partner Delivery Credential" height="100"/>
   <img src="assets/badges/github-sales-professional-fy26.png" alt="FY26 GitHub Sales Professional" height="100"/>
   <img src="assets/badges/github-platform-sales.png" alt="GitHub Platform Sales" height="100"/>
   <img src="assets/badges/github-security-sales.png" alt="GitHub Security Sales" height="100"/>
@@ -142,6 +145,7 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia√
 - GitHub Migrations Partner Delivery Credential
 - AzureDevOps to GitHub Migrations Delivery Credential
 - GitHub Advanced Security Partner Delivery Credential
+- GitHub Copilot: Core Skills & Application Partner Delivery Credential
 - FY26 GitHub Sales Professional
 - FY26 GitHub Platform Sales Badge
 - FY26 GitHub Advanced Security Sales Badge
