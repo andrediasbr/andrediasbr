@@ -82,6 +82,7 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia√
   <img src="assets/badges/azure-ai-fundamentals.png" alt="Azure AI Fundamentals" height="100"/>
   <img src="assets/badges/azure-data-fundamentals.png" alt="Azure Data Fundamentals" height="100"/>
   <img src="assets/badges/azure-fundamentals.png" alt="Azure Fundamentals" height="100"/>
+  <img src="assets/badges/azure-ai-transformation-leader.svg" alt="Microsoft Certified: AI Transformation Leader" height="100"/>
 </p>
 
 - **Azure Solutions Architect Expert**
@@ -92,6 +93,7 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia√
 - Azure AI Fundamentals
 - Azure Data Fundamentals
 - Azure Fundamentals
+- **Microsoft Certified: AI Transformation Leader**
 
 #### Amazon Web Services (AWS)
 <p align="left">
