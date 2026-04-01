@@ -2,7 +2,7 @@
 
 Este diretório contém todos os badges baixados das certificações do Credly.
 
-## Total: 48 badges
+## Total: 49 badges
 
 ### 🌟 MVP
 - `mvp-alumni.png` - Microsoft MVP Alumni
@@ -15,6 +15,9 @@ Este diretório contém todos os badges baixados das certificações do Credly.
 - `azure-security.png` - Azure Security Engineer Associate
 - `azure-data-fundamentals.png` - Azure Data Fundamentals
 - `azure-fundamentals.png` - Azure Fundamentals
+- `azure-ai-fundamentals.png` - Azure AI Fundamentals
+- `azure-ai-transformation-leader.svg` - Microsoft Certified: AI Transformation Leader
+- `m365-fundamentals.png` - Microsoft 365 Certified: Fundamentals
 
 ### ☁️ Amazon Web Services (AWS)
 - `aws-solutions-architect.png` - AWS Solutions Architect Associate
