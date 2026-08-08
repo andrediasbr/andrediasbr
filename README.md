@@ -123,6 +123,7 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia√
 
 #### GitHub
 <p align="left">
+  <img src="assets/badges/github-agentic-ai-developer.png" alt="GitHub Certified: Agentic AI Developer" height="100"/>
   <img src="assets/badges/github-administration.png" alt="GitHub Administration" height="100"/>
   <img src="assets/badges/github-advanced-security.png" alt="GitHub Advanced Security" height="100"/>
   <img src="assets/badges/github-actions.png" alt="GitHub Actions" height="100"/>
@@ -132,6 +133,8 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia√
   <img src="assets/badges/github-azdo-migrations.png" alt="AzureDevOps to GitHub Migrations" height="100"/>
   <img src="assets/badges/github-ghas-delivery.png" alt="GitHub Advanced Security Partner Delivery Credential" height="100"/>
   <img src="assets/badges/github-copilot-delivery.png" alt="GitHub Copilot: Core Skills & Application Partner Delivery Credential" height="100"/>
+  <img src="assets/badges/github-copilot-enterprise-delivery.png" alt="GitHub Copilot: Deploying and Scaling AI in the Enterprise Delivery Credential" height="100"/>
+  <img src="assets/badges/github-actions-cicd-delivery.png" alt="Modernizing Enterprise CI/CD with GitHub Actions Delivery Credential" height="100"/>  
   <img src="assets/badges/github-sales-professional-fy26.png" alt="FY26 GitHub Sales Professional" height="100"/>
   <img src="assets/badges/github-platform-sales.png" alt="GitHub Platform Sales" height="100"/>
   <img src="assets/badges/github-security-sales.png" alt="GitHub Security Sales" height="100"/>
@@ -139,8 +142,10 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia√
   <img src="assets/badges/github-revenue-motions.png" alt="GitHub Revenue Motions" height="100"/>
   <img src="assets/badges/github-tech-sales.png" alt="GitHub Tech Sales Professional" height="100"/>
   <img src="assets/badges/github-sales-professional.png" alt="GitHub Sales Professional" height="100"/>
+
 </p>
 
+- **GitHub Certified: Agentic AI Developer**
 - **GitHub Administration**
 - **GitHub Advanced Security**
 - **GitHub Actions**
@@ -150,6 +155,8 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia√
 - AzureDevOps to GitHub Migrations Delivery Credential
 - GitHub Advanced Security Partner Delivery Credential
 - GitHub Copilot: Core Skills & Application Partner Delivery Credential
+- GitHub Copilot: Deploying and Scaling AI in the Enterprise Delivery Credential
+- Modernizing Enterprise CI/CD with GitHub Actions Delivery Credential
 - FY26 GitHub Sales Professional
 - FY26 GitHub Platform Sales Badge
 - FY26 GitHub Advanced Security Sales Badge
@@ -224,6 +231,7 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia√
 <p align="left">
   <img src="assets/badges/pst.png" alt="Professional Scrum Trainer" height="100"/>
   <img src="assets/badges/mct.png" alt="Microsoft Certified Trainer" height="100"/>
+  <img src="assets/badges/mct-2026.png" alt="Microsoft Certified Trainer 2026" height="100"/>
 </p>
 
 - **Professional Scrum Trainer (PST)** - (2010 - 2012)

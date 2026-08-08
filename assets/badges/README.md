@@ -2,7 +2,7 @@
 
 Este diretório contém todos os badges baixados das certificações do Credly.
 
-## Total: 49 badges
+## Total: 58 badges
 
 ### 🌟 MVP
 - `mvp-alumni.png` - Microsoft MVP Alumni
@@ -35,12 +35,20 @@ Este diretório contém todos os badges baixados das certificações do Credly.
 - `github-actions.png` - GitHub Actions
 - `github-copilot.png` - GitHub Copilot
 - `github-foundations.png` - GitHub Foundations
+- `github-migrations.png` - GitHub Migrations Partner Delivery Credential
+- `github-azdo-migrations.png` - AzureDevOps to GitHub Migrations Delivery Credential
+- `github-ghas-delivery.png` - GitHub Advanced Security Partner Delivery Credential
+- `github-copilot-delivery.png` - GitHub Copilot: Core Skills & Application Partner Delivery Credential
 - `github-tech-sales.png` - GitHub Tech Sales Professional
 - `github-sales-professional.png` - GitHub Sales Professional
+- `github-sales-professional-fy26.png` - FY26 GitHub Sales Professional
 - `github-platform-sales.png` - FY26 GitHub Platform Sales Badge
 - `github-security-sales.png` - FY26 GitHub Advanced Security Sales Badge
 - `github-copilot-sales.png` - FY26 GitHub Copilot Sales Badge
 - `github-revenue-motions.png` - FY26 GitHub Revenue Motions Sales Badge
+- `github-agentic-ai-developer.png` - GitHub Certified: Agentic AI Developer
+- `github-copilot-enterprise-delivery.png` - GitHub Copilot: Deploying and Scaling AI in the Enterprise Delivery Credential
+- `github-actions-cicd-delivery.png` - Modernizing Enterprise CI/CD with GitHub Actions Delivery Credential
 
 ### 🔧 HashiCorp
 - `terraform.png` - Terraform Associate (002)
@@ -60,6 +68,7 @@ Este diretório contém todos os badges baixados das certificações do Credly.
 - `mct-2020-2021.png` - MCT 2020-2021
 - `mct-2021-2022.png` - MCT 2021-2022
 - `mct-2022-2023.png` - MCT 2022-2023
+- `mct-2026.png` - MCT 2026
 
 ### 📝 Microsoft Exams
 - `az-400.png` - AZ-400: Designing and Implementing Microsoft DevOps Solutions
