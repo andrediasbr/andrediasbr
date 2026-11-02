@@ -2,7 +2,7 @@
 
 Este diretório contém todos os badges baixados das certificações do Credly.
 
-## Total: 58 badges
+## Total: 59 badges
 
 ### 🌟 MVP
 - `mvp-alumni.png` - Microsoft MVP Alumni
@@ -34,6 +34,7 @@ Este diretório contém todos os badges baixados das certificações do Credly.
 - `github-advanced-security.png` - GitHub Advanced Security
 - `github-actions.png` - GitHub Actions
 - `github-copilot.png` - GitHub Copilot
+- `github-copilot-proficient-pro.png` - Microsoft Pro Badge: GitHub Copilot - Proficient
 - `github-foundations.png` - GitHub Foundations
 - `github-migrations.png` - GitHub Migrations Partner Delivery Credential
 - `github-azdo-migrations.png` - AzureDevOps to GitHub Migrations Delivery Credential

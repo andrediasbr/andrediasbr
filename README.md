@@ -128,6 +128,7 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia√
   <img src="assets/badges/github-advanced-security.png" alt="GitHub Advanced Security" height="100"/>
   <img src="assets/badges/github-actions.png" alt="GitHub Actions" height="100"/>
   <img src="assets/badges/github-copilot.png" alt="GitHub Copilot" height="100"/>
+  <img src="assets/badges/github-copilot-proficient-pro.png" alt="Microsoft Pro Badge: GitHub Copilot - Proficient" height="100"/>
   <img src="assets/badges/github-foundations.png" alt="GitHub Foundations" height="100"/>
   <img src="assets/badges/github-migrations.png" alt="GitHub Migrations Partner" height="100"/>
   <img src="assets/badges/github-azdo-migrations.png" alt="AzureDevOps to GitHub Migrations" height="100"/>
@@ -150,6 +151,7 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia√
 - **GitHub Advanced Security**
 - **GitHub Actions**
 - **GitHub Copilot**
+- **Microsoft Pro Badge: GitHub Copilot - Proficient**
 - **GitHub Foundations**
 - GitHub Migrations Partner Delivery Credential
 - AzureDevOps to GitHub Migrations Delivery Credential
