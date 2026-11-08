@@ -284,6 +284,6 @@ Just like in Jiu-Jitsu, where each position requires strategy and constant adapt
 - 🏆 Credly: [andredias](https://www.credly.com/users/andredias/badges)
 - 🐱 GitHub: [@andrediasbr](https://github.com/andrediasbr)
 - 📺 YouTube: [andrediasbr](https://www.youtube.com/andrediasbr)
-- 📷 Instagram: [@andredias](https://instagram.com/andredias)
+- 📷 Instagram: [@andrediasbr](https://instagram.com/andrediasbr)
 - 🐦 Twitter: [@andrediasbr](https://twitter.com/andrediasbr)
 - 📝 Blog: [andrediasbr.com](http://andrediasbr.com/)
