@@ -2,7 +2,7 @@
 
 Este diretório contém todos os badges baixados das certificações do Credly.
 
-## Total: 59 badges
+## Total: 60 badges
 
 ### 🌟 MVP
 - `mvp-alumni.png` - Microsoft MVP Alumni
@@ -47,6 +47,7 @@ Este diretório contém todos os badges baixados das certificações do Credly.
 - `github-security-sales.png` - FY26 GitHub Advanced Security Sales Badge
 - `github-copilot-sales.png` - FY26 GitHub Copilot Sales Badge
 - `github-revenue-motions.png` - FY26 GitHub Revenue Motions Sales Badge
+- `github-actions-sales.png` - GitHub Actions Sales Credential
 - `github-agentic-ai-developer.png` - GitHub Certified: Agentic AI Developer
 - `github-copilot-enterprise-delivery.png` - GitHub Copilot: Deploying and Scaling AI in the Enterprise Delivery Credential
 - `github-actions-cicd-delivery.png` - Modernizing Enterprise CI/CD with GitHub Actions Delivery Credential

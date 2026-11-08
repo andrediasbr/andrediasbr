@@ -141,6 +141,7 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia√
   <img src="assets/badges/github-security-sales.png" alt="GitHub Security Sales" height="100"/>
   <img src="assets/badges/github-copilot-sales.png" alt="GitHub Copilot Sales" height="100"/>
   <img src="assets/badges/github-revenue-motions.png" alt="GitHub Revenue Motions" height="100"/>
+  <img src="assets/badges/github-actions-sales.png" alt="GitHub Actions Sales Credential" height="100"/>
   <img src="assets/badges/github-tech-sales.png" alt="GitHub Tech Sales Professional" height="100"/>
   <img src="assets/badges/github-sales-professional.png" alt="GitHub Sales Professional" height="100"/>
 
@@ -164,6 +165,7 @@ Em outubro de 2025, tive a honra de representar a Avanade & Accenture na premia√
 - FY26 GitHub Advanced Security Sales Badge
 - FY26 GitHub Copilot Sales Badge
 - FY26 GitHub Revenue Motions Sales Badge
+- GitHub Actions Sales Credential
 - GitHub Tech Sales Professional
 - GitHub Sales Professional
 
